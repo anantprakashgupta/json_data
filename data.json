@@ -1560,7 +1560,166 @@
   "grindr": "Grindr",
   "bumble": "Bumble",
   "match": "Match.com",
-  "eharmony": "eHarmony"
+  "eharmony": "eHarmony",
+  "IAC": [
+    "Internal Acoustic Canal",
+    "International Administration Centre"
+  ],
+  "IAS": "Indian Administrative Service",
+  "IATA": "International Air Transport Association",
+  "IB": "Intelligence Bureau",
+  "IBC": "Insolvency and Bankruptcy Code",
+  "IBM": "International Business Machines",
+  "IBPS": "Institute of Banking Personnel Selection",
+  "IBRD": "International Bank for Reconstruction and Development",
+  "IBS": [
+    "Irritable Bowel Syndrome",
+    "International Business System",
+    "Integrated Broadcast Service"
+  ],
+  "IC": "Integrated Circuit",
+  "ICAI": "Institute of Chartered Accountants of India",
+  "ICAR": "Indian Council of Agricultural Research",
+  "ICC": "International Cricket Council",
+  "ICD": "Implantable Cardioverter-Defibrillator (ICD)",
+  "ICDS": "Integrated Child Development Services",
+  "ICH": "Intracerebral Haemorrhage",
+  "ICICI": "Credit and Investment Corporation of India",
+  "ICMR": "Indian Council of Medical Research",
+  "ICRA": "Investment Information and Credit Rating Agency",
+  "ICSE": "Indian Certificate of Secondary Education",
+  "ICSI": "Intracytoplasmic Sperm Injection",
+  "ICT": "Information and Communications Technology",
+  "ICU": "Intensive Care Unit",
+  "ICWA": [
+    "Institute of Cost & Works Accountants of India",
+    "Indian Child Welfare Act"
+  ],
+  "ID": "Identity Document",
+  "IDBI": "Industrial Development Bank of India",
+  "IDE": [
+    "Integrated Development Environment",
+    "Integrated Drive Electronics"
+  ],
+  "IDP": "International Driving Permit",
+  "IEC": "International Electrotechnical Commission",
+  "IED": "Improvised Explosive Device",
+  "IEEE": "Institute of Electrical and Electronics Engineers",
+  "IELTS": "International English Language Testing System",
+  "IES": "Indian Engineering Services",
+  "IDFC": "Infrastructure Development Finance Company",
+  "IFCI": "Industrial Finance Corporation of India",
+  "IFFCO": "Indian Farmers Fertilizer Cooperative Limited",
+  "IFRS": [
+    "International Financial Reporting Standards",
+    "Integrated Fiscal Reporting System",
+    "International Financial Reporting Standards Foundation"
+  ],
+  "IFS": "Indian Foreign Service",
+  "IFSC": "Indian Financial System Code",
+  "IG": "Inspector General of Police",
+  "IGBT": "Insulated-Gate Bipolar Transistor",
+  "IGNOU": "Indira Gandhi National Open University",
+  "IGST": "Integrated Goods and Services Tax",
+  "IIFL": "India Infoline Finance Limited",
+  "IIM": "Indian Institute of Management",
+  "IIT": "Indian Institute of Technology",
+  "IIIT": [
+    "Indian Institute of Information Technology",
+    "International Institute of Islamic Thought",
+    "Indraprastha Institute of Information Technology"
+  ],
+  "IKR": "I know, Right?",
+  "IL&FS": "Infrastructure Leasing & Financial Services",
+  "ILO": "International Labour Organization",
+  "IMA": [
+    "Indian Military Academy",
+    "Indian Medical Association"
+  ],
+  "IMAO": "In My Arrogant Opinion",
+  "IMC": "Integrated Marketing Communication",
+  "IMDb": "Internet Movie Database",
+  "IMEI": "International Mobile Equipment Identity",
+  "IMF": "International Monetary Fund",
+  "IMO": [
+    "In My Opinion",
+    "International Maritime Organization"
+  ],
+  "IMPS": "Immediate Payment Service",
+  "IMS": [
+    "Integrated Management System",
+    "Information Management System",
+    "Inventory Management System",
+    "Indian Maritime Services"
+  ],
+  "INA": [
+    "Indian National Army",
+    "Indian National Airways"
+  ],
+  "INDIA": "No, but can be termed as Independent National Democratic Intelligent Area",
+  "INR": "Indian Rupee",
+  "INS": "Indian Navy Ship",
+  "INTERNET": "Interconnected Network",
+  "IOC": "International Olympic Committee",
+  "iOS": "iPhone Operating System",
+  "IoT": "Internet of Things",
+  "IP": "Internet Protocol",
+  "IPC": "Interprocess Communication",
+  "IPCC": "Integrated Professional Competence Course",
+  "IPI": "International Press Institute",
+  "IPL": "Indian Premier League",
+  "IPO": "Initial Public Offering",
+  "IPR": "Intellectual Property Rights",
+  "IPS": [
+    "Indian Police Service",
+    "In-Plane Switching",
+    "Intrusion Prevention System"
+  ],
+  "IQ": "Intelligence Quotient",
+  "IRCTC": "Indian Railways Catering and Tourism Corporation",
+  "IRDA": [
+    "Insurance Regulatory and Development Authority",
+    "Infrared DATA Association"
+  ],
+  "IRDP": "Integrated Rural Development Programme",
+  "IRR": "Internal Rate of Return",
+  "IRS": "Indian Revenue Service",
+  "IS": "Information System",
+  "ISA": "International Seabed Authority",
+  "ISBN": "International Standard Book Number",
+  "ISC": "Indian School Certificate",
+  "ISD": "International Subscriber Dialing",
+  "ISI": "Indian Standards Institute",
+  "ISIS": "Islamic State of Iraq and Syria",
+  "ISKCON": "International Society for Krishna Consciousness",
+  "ISDN": "Integrated Service Digital Network",
+  "ISO": "International Organization for Standardization",
+  "ISP": "Internet Service Provider",
+  "ISRO": "Indian Space Research Organization",
+  "ISS": "International Space Station",
+  "IST": "Indian Standard Time",
+  "ISTG": "Inter Site Topology Generator",
+  "IT": [
+    "Information Technology",
+    "Income Tax"
+  ],
+  "ITBP": "Indo-Tibetan Border Police",
+  "ITC": [
+    "Indian Tobacco Company",
+    "International Trade Center",
+    "Independent Telephone Company"
+  ],
+  "ITES": "Information Technology Enabled Services",
+  "ITI": "Industrial Training Institute",
+  "ITIL": "Information Technology Infrastructure Library",
+  "ITP": "Idiopathic Thrombocytopenic Purpura",
+  "ITR": "Income Tax Return",
+  "IUCN": "International Union for Conservation of Nature",
+  "IUD": "Intrauterine Device",
+  "IUPAC": "International Union of Pure and Applied Chemistry",
+  "IVF": "IN Vitro Fertilization",
+  "IVR": "Interactive Voice Response"
 }
+
 
 
